@@ -23,10 +23,10 @@ MonoBehaviour:
     y: 30
     width: 1536
     height: 731
-  m_MinSize: {x: 955, y: 448}
-  m_MaxSize: {x: 22010, y: 10024}
+  m_MinSize: {x: 957, y: 448}
+  m_MaxSize: {x: 22012, y: 10024}
   vertical: 0
-  controlID: 8130
+  controlID: 1105
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -131,7 +131,7 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 448}
   m_MaxSize: {x: 4002, y: 8048}
   vertical: 1
-  controlID: 8113
+  controlID: 1031
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -192,9 +192,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 960, y: 857, z: 0}
+    m_Target: {x: 6.7310977, y: -4.1176996, z: 0.4763724}
     speed: 2
-    m_Value: {x: 960, y: 857, z: 0}
+    m_Value: {x: 6.7310977, y: -4.1176996, z: 0.4763724}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -226,9 +226,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: -0.00749952, y: 0.009598685, z: 0.00007205511, w: 0.99992585}
   m_Size:
-    m_Target: 966.1156
+    m_Target: 16.871075
     speed: 2
-    m_Value: 966.1156
+    m_Value: 16.871075
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -509,10 +509,10 @@ MonoBehaviour:
     y: 0
     width: 274
     height: 731
-  m_MinSize: {x: 244, y: 424}
-  m_MaxSize: {x: 4004, y: 8024}
+  m_MinSize: {x: 244, y: 448}
+  m_MaxSize: {x: 4004, y: 8048}
   vertical: 1
-  controlID: 8131
+  controlID: 1106
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -570,7 +570,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: bcd4ffffc8d4ffff0ed8ffffe4e2ffffdce3ffff2ae5ffff28e7ffff34e7ffff40e7ffffd2e7ffffdce7ffff08e8ffffc2e9ffff80eaffff56ecfffff4edfffffcefffff82f0ffff02f1ffff14f1ffff26f1ffff38f1ffff4ef1ffff36f4ffff34f5ffff2cf7ffff3ef7ffff50f7ffff62f7ffff26f8ffff3ef9ffffb25d0000ca5d0000aa660000e2690000bc730000ba770000a6790000d27c0000867d0000947d0000ce7d0000447e0000527e00005e7e00003a7f0000527f0000
+      m_ExpandedIDs: a8f6ffff2efbffffdefbffff96430000d0430000fe430000de4400004845000086450000c0450000644a0000be4b0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -715,20 +715,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Font
+    - Assets/Scenes
   m_ViewMode: 1
   m_StartGridSize: 96
   m_LastFolders:
-  - Assets/Font
+  - Assets/Scenes
   m_LastFoldersGridSize: 96
   m_LastProjectPath: C:\Users\Aldi\Documents\Kuliah\Semester 6\Pemrograman Multimedia\UTS\BomberMazeUnity2D
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 84400000
-    m_LastClickedID: 16516
-    m_ExpandedIDs: 0000000024350000a03f0000b44000003a4100009843000000ca9a3b
+    m_SelectedIDs: d6350000
+    m_LastClickedID: 13782
+    m_ExpandedIDs: 0000000036260000b4300000c83100004e320000ac34000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -756,7 +756,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000024350000a03f0000b44000003a4100009843000000ca9a3b
+    m_ExpandedIDs: 0000000036260000b4300000c83100004e320000ac34000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -781,9 +781,9 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: c8d4ffff
-    m_LastClickedInstanceID: -11064
-    m_HadKeyboardFocusLastEvent: 0
+    m_SelectedInstanceIDs: 464b0000
+    m_LastClickedInstanceID: 19270
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: a62800005e2f00000a40000036420000b427000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -808,7 +808,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 0}
+    m_ScrollPosition: {x: 0, y: 97}
     m_GridSize: 96
   m_DirectoriesAreaWidth: 177
 --- !u!114 &17
